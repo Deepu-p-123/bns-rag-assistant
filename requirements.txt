@@ -1,6 +1,6 @@
 pymupdf==1.24.10
-chromadb==0.5.5
 streamlit==1.38.0
 google-genai==1.71.0
 python-dotenv==1.0.1
 posthog==4.8.0
+chromadb==0.5.23
